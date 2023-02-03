@@ -54,3 +54,35 @@ This code writes the contents of the `pandas` `DataFrame` object named "df" to a
 ```
 df.to_csv('A/File/Path/file_name.csv')
 ```
+> Second_project
+
+# Dealing with multiple web_pages
+
+Scraping `Airbnb` to get multiple pages data and anlysis the deals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
