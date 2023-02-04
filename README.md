@@ -35,9 +35,9 @@ for i in table.find_all('th'):
     title = i.text.strip()
     headers.append(title)
 ```
-a new `pandas` DataFrame `df` with the specified column names.
-The `pd.DataFrame` function creates a new dataframe and takes an argument columns that specifies the names of the columns in the dataframe. In this line, the value of columns is the headers list, which we obtained in the previous code.
-So, `df = pd.DataFrame(columns = headers)` creates a new empty dataframe df with the columns specified in the `headers` `list`. The dataframe is empty because we have not yet added any data to it. This line sets up the structure of the dataframe and makes sure that it has the correct columns.
+a new `pandas` DataFrame `df` with the specified `column` names.
+The `pd.DataFrame` function creates a new dataframe and takes an argument `columns` that specifies the names of the columns in the dataframe. In this `line`, the value of columns is the `headers` `list`, which we obtained in the previous code.
+So, `df = pd.DataFrame(columns = headers)` creates a new `empty` dataframe `df` with the columns specified in the `headers` `list`. The dataframe is `empty` because we have not yet added any data to it. This line sets up the structure of the dataframe and makes sure that it has the correct `columns`.
 ```
 df = pd.DataFrame(columns = headers)
 ```
