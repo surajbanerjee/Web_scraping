@@ -79,7 +79,8 @@ df = pd.DataFrame({'link':[''], 'title':[''], 'price':[''], 'rateing':[''], 'det
     #An empty pandas dataframe df is created with columns for link, title, price, rating, detail, and bed.
 
 while True:
-#An infinite loop while True is started to scrape information from multiple pages. The loop is broken using the break statement at the end of the loop.
+#An infinite loop while True is started to scrape information from multiple pages. 
+#The loop is broken using the break statement at the end of the loop.
     post = soup.find_all('div', class_ = 'cy5jw6o  dir dir-ltr')
     for pose in post:
         link = post.find('a', class_ = 'bn2bl2p dir dir-ltr').get('href')
