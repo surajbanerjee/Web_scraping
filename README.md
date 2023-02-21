@@ -60,6 +60,19 @@ df.to_csv('A/File/Path/file_name.csv')
 
 Here we are Scraping <a href="https://github.com/surajbanerjee/Web_scraping/blob/71c864c2039724920ade0a1a3870d4e7cfc3c3b3/Airbnb_page%20_scrap.py"> `Airbnb` </a> to get multiple pages data and anlysis the deals. Scraping data from multiple links [ All the code is done in Spider {Python-ide} ].
 
+# Imdb Scrap_page
+
+Scraped Imdb for the top 100 movie till now, Find the code <a href ="https://github.com/surajbanerjee/Web_scraping/blob/e62553c6ec0fa61c307ef37739131f23b7c9f107/Imdb_Coding_Exercise_Answer.py"> `here` </a>.
+1. Starts our driver and goes to the starting webpage which is google.com
+2. Inputs text into the google search box
+3. Presses the enter button to search
+4. Presses on the link for Imdb
+5. 3 second wait time to let the entire page load in
+6. Scrolls until Jaws the movie is on the screen
+7. Takes a screenshot of the webpage
+8. Takes a screenshot of the Jaws movie poster
+9. My own code start from here:
+
 > Third_Project
 
 
