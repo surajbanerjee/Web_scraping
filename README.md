@@ -4,9 +4,9 @@ A idea for a project that combines Python and SQL would be to create a web scrap
 Once the data is stored in the SQL database, you could use Python to perform analysis on the data and create visualizations using a library such as Matplotlib or Seaborn. Additionally, you could use a web framework like Flask or Django to create a web application that allows users to interact with the data and visualizations stored in the SQL database.
 This project would demonstrate your ability to work with both Python and SQL, as well as your understanding of web scraping, data analysis, and web development.
 
-> Basic Code used:
+> Basic commands used:
 
-You can find the sample code <a href="https://github.com/surajbanerjee/Web_scraping/blob/8b445fc1822b3a20d255f7c73af126881fe14c0f/Amazon%20Web%20Scraping%20project.py"> `Here` </a> And for more Updated below.
+You can find the basic commands <a href="https://github.com/surajbanerjee/Web_scraping/blob/8b445fc1822b3a20d255f7c73af126881fe14c0f/Amazon%20Web%20Scraping%20project.py"> `Here` </a> And for more Updated below.
 
 > Project
 
