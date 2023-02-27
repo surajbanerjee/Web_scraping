@@ -1,5 +1,9 @@
 ### Overview
 
+This ReadMe is used for learning web scraping and some basic commands with explanations and basic code, we can refer to this link for basic commands <a href="https://selenium-python.readthedocs.io/"> `Here` </a>
+This Readme contains complete a course of Web Scraping in Python With BeautifulSoup and Selenium 2023 on Udemy 
+
+#### Motive of Building this:
 A idea for a project that combines Python and SQL would be to create a web scraping script using Python that collects data from a website and then stores that data in a SQL database. The script could then be scheduled to run regularly to collect updated information.
 Once the data is stored in the SQL database, you could use Python to perform analysis on the data and create visualizations using a library such as Matplotlib or Seaborn. Additionally, you could use a web framework like Flask or Django to create a web application that allows users to interact with the data and visualizations stored in the SQL database.
 This project would demonstrate your ability to work with both Python and SQL, as well as your understanding of web scraping, data analysis, and web development.
@@ -10,7 +14,7 @@ You can find the basic commands <a href="https://github.com/surajbanerjee/Web_sc
 
 > Project
 
-# Scraping_Table_Project
+#### Scraping_Table_Project
 
 Scraping data form a table, <a href="https://github.com/surajbanerjee/Web_scraping/blob/4b9b0209487db0fe35067fa535f1187966f36349/Scraping_a_Table.py"> `⛓Code` </a> with explanition below:
 
@@ -56,11 +60,11 @@ df.to_csv('A/File/Path/file_name.csv')
 ```
 > Second_project
 
-# Dealing with multiple web_pages
+#### Dealing with multiple web_pages
 
 Here we are Scraping <a href="https://github.com/surajbanerjee/Web_scraping/blob/71c864c2039724920ade0a1a3870d4e7cfc3c3b3/Airbnb_page%20_scrap.py"> `Airbnb` </a> to get multiple pages data and anlysis the deals. Scraping data from multiple links [ All the code is done in Spider {Python-ide} ].
 
-# Imdb Scrap_page
+#### Imdb Scrap_page
 
 Scraped Imdb for the top 100 movie till now, Find the code <a href ="https://github.com/surajbanerjee/Web_scraping/blob/e62553c6ec0fa61c307ef37739131f23b7c9f107/Imdb_Coding_Exercise_Answer.py"> `here` </a>.
 1. Starts our driver and goes to the starting webpage which is google.com
@@ -73,7 +77,7 @@ Scraped Imdb for the top 100 movie till now, Find the code <a href ="https://git
 8. Takes a screenshot of the Jaws movie poster
 9. My own code start from here:
 
-### Infinite Scrolling
+#### Infinite Scrolling
 
 Here we learn about the scrolling the web page through automation so we can get the whole page data as per the dataframe. We have the <a href = https://github.com/surajbanerjee/Web_scraping/blob/b9bf0f5614691065b7be9e3720b9c7242160f314/Infinite_Scrolling.py> `Code` </a> here.
 
@@ -83,25 +87,3 @@ Here we have scraped `Twitter` and scraped 200 twete to analys the most recent t
 My <a href = 'https://github.com/surajbanerjee/Web_scraping/blob/8b99730008e949375d4913720f5f3949f4718ed2/Twitter.py'> `Code` </a> is here 
 
 As well we have done one more famous website, where we have scraped `Indeed` to get the most recent job listings. find the code <a href = 'https://github.com/surajbanerjee/Web_scraping/blob/8b99730008e949375d4913720f5f3949f4718ed2/Indeed_Coding_Exercise_Answer.py'> `here` </a>.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
