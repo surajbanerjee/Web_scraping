@@ -79,7 +79,10 @@ We have the <a href = https://github.com/surajbanerjee/Web_scraping/blob/b9bf0f5
 
 > Third_Project
 
+Here we have scraped `Twitter` and scraped 200 twete to analys the most recent tweet, we had login with the help of python script and searched for one of my favourite  celebreaty and tried to get the most recent list of tweets.
+My <a href = 'https://github.com/surajbanerjee/Web_scraping/blob/8b99730008e949375d4913720f5f3949f4718ed2/Twitter.py'> `Code` </a> is here 
 
+As well we have done one more famous website, where we have scraped `Indeed` to get the most recent job listings. find the code <a href = 'https://github.com/surajbanerjee/Web_scraping/blob/8b99730008e949375d4913720f5f3949f4718ed2/Indeed_Coding_Exercise_Answer.py'> `here` </a>.
 
 
 
