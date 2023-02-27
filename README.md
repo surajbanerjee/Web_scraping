@@ -73,9 +73,9 @@ Scraped Imdb for the top 100 movie till now, Find the code <a href ="https://git
 8. Takes a screenshot of the Jaws movie poster
 9. My own code start from here:
 
-# Infinite Scrolling
+### Infinite Scrolling
 
-We have the <a href = https://github.com/surajbanerjee/Web_scraping/blob/b9bf0f5614691065b7be9e3720b9c7242160f314/Infinite_Scrolling.py> `Code` </a> here.
+Here we learn about the scrolling the web page through automation so we can get the whole page data as per the dataframe. We have the <a href = https://github.com/surajbanerjee/Web_scraping/blob/b9bf0f5614691065b7be9e3720b9c7242160f314/Infinite_Scrolling.py> `Code` </a> here.
 
 > Third_Project
 
